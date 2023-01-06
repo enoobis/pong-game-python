@@ -1,4 +1,4 @@
-# Pygame Pong
+# Pong Python (Pygame)
 
 This is a simple implementation of the classic Pong game using Pygame. The game features a scoring system and game over functionality.
 
