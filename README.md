@@ -6,7 +6,7 @@ This is a simple implementation of the classic Pong game using Pygame. The game 
 
 To run the game, you will need to have Python and Pygame installed on your computer. You can download Python from the [Python website](https://www.python.org/) and install Pygame using pip:
 
-pip install pygame
+`pip install pygame`
 
 Copy code
 
@@ -14,11 +14,11 @@ Copy code
 
 To start the game, run the following command in the terminal:
 
-python pong.py
+`python pong.py`
 
 Copy code
 
-Players can control the paddles using the W and S keys for the left paddle and the Up and Down arrow keys for the right paddle. The game ends when one of the players reaches the maximum score, which is set to 3 by default.
+Players can control the paddles using the W and S keys for the left paddle and the Up and Down arrow keys for the right paddle. The game ends when one of the players reaches the maximum score, which is set to 5 by default.
 
 ## Customization
 
